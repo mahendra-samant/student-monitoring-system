@@ -26,7 +26,7 @@ This project was developed as an academic/learning project to practice Java prog
 ---
 
 ## Technologies Used
-|----------------|---------------------------------------|
+
 | Technology     | Purpose                               |
 |----------------|---------------------------------------|
 | Java           | Application development               |
@@ -36,7 +36,7 @@ This project was developed as an academic/learning project to practice Java prog
 | SQL            | Database queries                      |
 | JCalendar      | Date selection                        |
 | rs2xml/DbUtils | Displaying database results in tables |
-|----------------|---------------------------------------|
+
 ---
 
 ## Project Modules
