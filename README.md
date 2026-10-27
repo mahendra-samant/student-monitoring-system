@@ -262,7 +262,7 @@ This project represents an earlier stage of my development journey and demonstra
 **Mahendra**
 
 GitHub:  
-`https://github.com/mahendra-samant
+https://github.com/mahendra-samant
 
 ---
 
